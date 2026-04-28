@@ -1,5 +1,0 @@
-DB_NAME = "pp2"
-DB_USER = "postgres"
-DB_PASSWORD = "2008yernar"
-DB_HOST = "localhost"
-DB_PORT = "5432"
