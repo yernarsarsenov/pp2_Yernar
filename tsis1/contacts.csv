@@ -1,0 +1,5 @@
+first_name,last_name,email,birthday,group,phone,phone_type
+John,Doe,john.doe@gmail.com,1990-01-01,Friend,87771234567,mobile
+Jane,Smith,jane.smith@work.com,1995-05-15,Work,87019876543,work
+Alice,Johnson,alice.j@family.com,1985-10-20,Family,87770001122,home
+Bob,Brown,bob.brown@other.com,2000-12-31,Other,87005554433,mobile
