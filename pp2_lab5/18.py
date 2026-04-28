@@ -1,0 +1,4 @@
+import re
+s = input()
+pat = input()
+print(len(re.findall(re.escape(pat), s)))
